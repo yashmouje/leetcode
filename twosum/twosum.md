@@ -34,4 +34,4 @@ Only one valid answer exists.
 
 ## Solution Complexity
 - Time: O(n)
-- Space: O(?)
+- Space: O(n)
