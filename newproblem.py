@@ -78,6 +78,7 @@ def main() -> None:
 - Difficulty: Easy/Medium/Hard
 - Tags: <!-- e.g. Hashmap, Two Pointers -->
 ---
+
 ## Description
 
 
@@ -99,6 +100,7 @@ Created: {today}
 
 Python {sys.version.split()[0] or "3.12"}
 """
+
 
 class Solution:
     def solve(self, *args, **kwargs):
